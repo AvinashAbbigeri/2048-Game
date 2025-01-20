@@ -1,7 +1,8 @@
 2048 Game Clone
 
 Brief Overview:
-A web-based implementation of the popular 2048 puzzle game where players slide numbered tiles on a 4x4 grid to merge them and create tiles with a value of 2048 or higher. The game includes animations, score tracking, and high-score persistence for an engaging user experience.
+- A web-based implementation of the popular 2048 puzzle game where players slide numbered tiles on a 4x4 grid to merge them and create tiles with a 
+  value of 2048 or higher. The game includes animations, score tracking, and high-score persistence for an engaging user experience.
 
 Key Features:
 - Dynamic 4x4 grid that updates in real-time with player moves.
@@ -27,4 +28,5 @@ Challenges Solved:
 - Efficiently checking for possible moves and empty tiles to detect game-over conditions.
 
 Outcome:
-The project serves as a functional and visually appealing version of the classic 2048 game. It provides players with a fun and interactive experience, showcasing strong skills in JavaScript and front-end development.
+- The project serves as a functional and visually appealing version of the classic 2048 game. It provides players with a fun and interactive 
+  experience, showcasing strong skills in JavaScript and front-end development.
